@@ -17,19 +17,19 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 ## Level 1 - Intro
 - [x] [OpenVPN](https://tryhackme.com/room/openvpn)
 - [x] [Welcome](https://tryhackme.com/jr/welcome) (write-up [here](write-ups/level1/Welcome))
-- [x] [Intro to Researching](https://tryhackme.com/room/introtoresearch)
-- [x] [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
-- [x] [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)
+- [⏳] [Intro to Researching](https://tryhackme.com/room/introtoresearch)
+- [ ] [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
+- [ ] [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)
 - [ ] [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)
-<!-- - [x] [Crash Course Pentesting](https://tryhackme.com/room/ccpentesting) / Private -->
+<!-- - [ ] [Crash Course Pentesting](https://tryhackme.com/room/ccpentesting) / Private -->
 
 **Introductory CTFs to get your feet wet**
-- [x] [Google Dorking](https://tryhackme.com/room/googledorking)
-- [x] [OHsint](https://tryhackme.com/room/ohsint)
+- [ ] [Google Dorking](https://tryhackme.com/room/googledorking)
+- [ ] [OHsint](https://tryhackme.com/room/ohsint)
 
 ## Level 2 - Tooling
 - [ ] [Tmux](https://tryhackme.com/room/rptmux)
-- [x] [Nmap](https://tryhackme.com/room/furthernmap)
+- [ ] [Nmap](https://tryhackme.com/room/furthernmap)
 - [ ] [Web Scanning](https://tryhackme.com/room/rpwebscanning)
 - [ ] [Sublist3r](https://tryhackme.com/room/rpsublist3r)
 - [ ] [Metasploit](https://tryhackme.com/room/rpmetasploit)
@@ -40,14 +40,14 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [RustScan](https://tryhackme.com/room/rustscan)
 
 **More introductory CTFs**
-- [x] [Vulnversity](https://tryhackme.com/room/vulnversity) (write-up [here](write-ups/level2/Vulnversity))
+- [ ] [Vulnversity](https://tryhackme.com/room/vulnversity) (write-up [here](write-ups/level2/Vulnversity))
 - [ ] [Blue](https://tryhackme.com/room/blue)
-- [x] [Simple CTF](https://tryhackme.com/room/easyctf) (write-up [here](write-ups/level2/Simple%20CTF))
+- [ ] [Simple CTF](https://tryhackme.com/room/easyctf) (write-up [here](write-ups/level2/Simple%20CTF))
 - [ ] [Bounty Hacker](https://tryhackme.com/room/cowboyhacker)
 - [ ] [Brute It](https://tryhackme.com/room/bruteit)
 
 ## Level 3 - Crypto & Hashes with CTF practice
-- [x] [Crack the hash](https://tryhackme.com/room/crackthehash)
+- [ ] [Crack the hash](https://tryhackme.com/room/crackthehash)
 - [ ] [Agent Sudo](https://tryhackme.com/room/agentsudoctf)
 - [ ] [The Cod Caper](https://tryhackme.com/room/thecodcaper)
 - [ ] [Ice](https://tryhackme.com/room/ice)
