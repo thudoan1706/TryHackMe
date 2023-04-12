@@ -19,7 +19,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [x] [Welcome](https://tryhackme.com/jr/welcome) (write-up [here](write-ups/level1/Welcome))
 - [⏳] [Intro to Researching](https://tryhackme.com/room/introtoresearch)
     - [x] Task 1: Example Research Question
-    - [ ] Task 2: Vunerability Searching
+    - [x] Task 2: Vunerability Searching
     - [ ] Task 3: Manual Pages
 - [ ] [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 - [ ] [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)
